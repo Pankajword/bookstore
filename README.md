@@ -1,6 +1,8 @@
 Online Book Store
 This is a web application built using Java, Spring Boot, Spring MVC, Thymeleaf, Spring Data JPA, and Git.
 
+----------------------------------------------------------------------------------------------------------------------------------
+
 Features
 User Authentication and Authorization: Secure user authentication and authorization mechanisms ensure the safety of user data and actions.
 
@@ -15,6 +17,8 @@ Checkout Process: Seamless checkout process enables users to complete their purc
 Order History: Users can view their order history, providing insights into past purchases and transactions.
 
 Admin Panel: An admin panel is available for managing books and users, offering administrative privileges and control over the application's content and users' interactions.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 Technologies Used
 Java: Programming language used for backend development.
@@ -28,14 +32,17 @@ Thymeleaf: Modern server-side Java template engine for web and standalone enviro
 Spring Data JPA: Part of the larger Spring Data project, it makes it easy to implement JPA-based repositories.
 
 Git: Version control system used for tracking changes in the codebase and collaborating with other developers.
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Java Version  - 17
+MySQL version - 8.0
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Installation and Setup
 Clone the repository to your local machine using Git.
 Navigate to the project directory.
 Run the application using your preferred IDE or build tools.
 Usage
 Open the application in your web browser.
-Sign in or create a new account if required.
+
 Browse books by category, author, or title.
 Add books to your shopping cart.
 Proceed to checkout and complete your purchase.
